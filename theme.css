@@ -12,7 +12,7 @@ td {
 }
 blockquote {
   font-family: 'PT Mono', sans-serif;
-  color: #b12c25;
+  color: #ffcd01;
   font-weight: 100;
   letter-spacing: -1px;
 }
@@ -26,7 +26,7 @@ blockquote:before {
   padding: 0 15px;
   font-size: 25px;
   line-height: 1.8;
-  background: #2591cf;
+  background: #541b51;
   left: 0;
   text-align: center;
 }
@@ -40,14 +40,14 @@ blockquote:before {
   background: none;
   height: 75px;
   min-width: 55px;
-  color: #fff;
+  color: #541b51;
   font-family: 'Eternal UI', sans-serif;
   font-size: 40px;
   padding-top: 0;
   margin-left: 30px;
 }
 .slide.rbn::after {
-  background: #01cf8e;
+  background: #ffcd01;
 }
 .slide::before {
   position: absolute;
@@ -109,7 +109,7 @@ blockquote:before {
   color: #999;
 }
 .progress:before {
-  background: #b12c25;
+  background: #ffcd01;
 }
 .tag {
   color: #ad1531;
@@ -141,7 +141,7 @@ blockquote:before {
   opacity: 0;
 }
 .slide.menu-slide .selected-item {
-  background-color: #b12c25;
+  background-color: #ffcd01;
   display: inline-block;
 }
 .slide.menu-slide .transparent {
@@ -149,12 +149,12 @@ blockquote:before {
 }
 .slide.label-header h2 {
   display: inline-block;
-  background-color: #2591cf;
+  background-color: #541b51;
   padding: 10px 15px 15px;
   font-family: 'Eternal UI', sans-serif;
   font-size: 44px;
   letter-spacing: 1.5px;
-  color: #fff;
+  color: #efefef;
 }
 .slide.label-header h2.shout {
   margin-left: 0;
@@ -206,7 +206,7 @@ figcaption {
   margin-top: 40px !important;
 }
 .label {
-  background-color: #b12c25;
+  background-color: #ffcd01;
   color: #fff;
   padding: 0 10px;
   display: inline-block;
